@@ -1,0 +1,2 @@
+MySQL DB Name 	MySQL User Name 	MySQL Password 	MySQL Host Name 	PHPMyAdmin
+icei_33552575_takalo	icei_33552575	(Your vPanel Password)	sql107.iceiy.com
